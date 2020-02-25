@@ -1,7 +1,21 @@
-# VueDemo
-this is a series of demos about Vue'js
-/*
-    @author:Johnson
-    @description: the Project create by vue cli
-    @time:2020/2/25 13:01
-*/
+# vue-app
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
